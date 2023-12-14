@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aadi-1912
+- 👋 Hi, I’m Aadi Dev Pandey
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
