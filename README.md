@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aadi Dev Pandey
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Electric Vehicles.
 - 📫 How to reach me anparaj21@gmail.com
 
 <!---
